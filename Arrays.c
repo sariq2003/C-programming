@@ -15,7 +15,8 @@ int main()
         }
 
         printf("%u",ptr);
-        printf("\n%u",*(*(ptr+1)+0));
+        printf("\n%d",*(*(ptr+1)+0));
+        printf("\n%d",  *(*(ptr+2)+4));
 
 
     return 0;
