@@ -1,0 +1,7 @@
+
+#define AREAOFTRIANGLE(L,B) ((0.5)*(L*B))
+#define PERIMETEROFTRIANGLE(A,B,C) (A+B+C)
+#define AREAOFSQUARE(S) (S*S)
+#define PERIMETEROFSQUARE(S) (4*S)
+#define AREAOFCIRCLE(R) ((22/7)*R*R)
+#define PERIMETEROFCIRCLE(R) (2*(22/7)*R)
