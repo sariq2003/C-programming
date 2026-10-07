@@ -28,7 +28,7 @@ int main()
             
         }
 
-        printf("\nArray after sorting using bubble sort: ");
+        printf("\nArray after sorting  : ");
         for(int i =0; i<=9-1; i++)
             printf("%d ",arr[i]);
      

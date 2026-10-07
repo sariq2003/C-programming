@@ -39,8 +39,7 @@ int main()
              "Positive = %d\n" 
             "Negative = %d\n",oddCount,evenCount,posCount,negCount);
 
-    // printf(" Total Odd Even Positive Negative Elements in Given Array as:\n odd_Element = %d 
-    //     even_Element = %d positive_Element = %d negative_Element = %d")
+    
 
     
     return 0 ;
